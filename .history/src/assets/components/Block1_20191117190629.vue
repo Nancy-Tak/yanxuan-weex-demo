@@ -12,7 +12,6 @@
     </div>
 </template>
 <style scoped>
-// 就为了测试提交功能的
     .iconfont {
         font-family:iconfont;
     }
